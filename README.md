@@ -28,6 +28,6 @@ docs/       Memorias de cada sprint y capturas
 ## Entregas
 
 - **Incremento 1** (9 de diciembre de 2026): registro, login, ver retos y completar retos autodeclarados.
-- **Incremento 2**: retos con foto verificada por IA y panel de administración.
+- **Incremento 2**: retos con foto verificada automaticamente y panel de administración.
 - **Incremento 3**: mejoras de usabilidad y funciones avanzadas.
 - **Entrega final**: versión completa y documentada para la defensa.
