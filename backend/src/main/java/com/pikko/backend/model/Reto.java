@@ -72,10 +72,6 @@ public class Reto {
         return fechaCreacion;
     }
 
-    public void setFechaCreacion(LocalDate fechaCreacion) {
-        this.fechaCreacion = fechaCreacion;
-    }
-
     public LocalDate getFechaInicio() {
         return fechaInicio;
     }
