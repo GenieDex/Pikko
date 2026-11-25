@@ -21,7 +21,6 @@ Proyecto Intermodular · CFGS Desarrollo de Aplicaciones Web · 2026-2027
 ```
 backend/    API REST con Spring Boot
 frontend/   Aplicación React
-database/   Scripts SQL (datos iniciales de retos)
 docs/       Memorias de cada sprint y capturas
 ```
 
